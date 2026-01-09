@@ -20,8 +20,7 @@ Rohan_81
 <hr>
 <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVoNHcyaGl1ajQ2bGVqM2k3azFoY2lkcXFuZW9haXYyNjVsNWVuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width = 30px></picture> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 & 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-1281&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Rohan1281's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Rohan1281&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Rohan1281's GitHub Streak" width="49%" />
+  
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-1281&theme=nightowl&radius=10" alt="Rohan1281's Activity Graph" />
